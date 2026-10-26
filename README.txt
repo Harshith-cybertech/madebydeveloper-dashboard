@@ -8,7 +8,7 @@ FILES
 - assets/payment-qr.png: QR generated for the UPI payment request (if generated)
 
 CONFIGURED DETAILS
-- Price: ₹50
+- Price: ₹20
 - UPI ID: 7204117091@ybl
 - WhatsApp: +917204117091
 
